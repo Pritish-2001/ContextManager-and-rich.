@@ -1,0 +1,5 @@
+In python date and time are not  a data type of their own
+but a module name datetiume can be imported to work with the date
+as well as time. Python datetime module comes built into python, sothere is no need to install it externally
+
+
